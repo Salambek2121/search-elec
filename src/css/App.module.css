@@ -1,0 +1,151 @@
+.card img {
+    width: 150px;
+
+    /* height: 150px; */
+
+
+
+}
+.opshi{
+    /* width: 150px; */
+}
+
+.button button {
+    background-color: transparent;
+    border-radius: 5px;
+    border: 2px solid#447ab8;
+    font-size: 20px;
+    /* width: 100px; */
+    height: 40px;
+    /* font-weight: 500; */
+    color: #447ab8;
+    cursor: pointer;
+
+}
+
+.foto {
+    /* width: 250px; */
+
+}
+
+.card {
+    width: 200px;
+    
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    border-radius: 7px;
+    
+
+}
+
+.price p {
+    /* font-size: 30px; */
+    font-weight: 600;
+    
+}
+
+.rod {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 3px solid gray;
+}
+
+.bascet button {
+
+    background-color: #17bd46;
+    border-radius: 5px;
+    border: 1px solid #17bd46;
+    height: 40px;
+    /* width: 200px; */
+    color: white;
+    font-size: 20px;
+    margin-left: 8%;
+    /* margin-top: 5px; */
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+
+.roddetail {
+    position: relative;
+}
+
+.lorem {
+    position: absolute;
+    
+    display: inline;
+    width: 200px;
+    background-color: rgb(239, 237, 234);
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    left: 110px;
+    bottom: 25px;    
+
+}
+.text{
+    font-size: 20px;
+margin-left: 5%; 
+}
+.delete{
+    cursor: pointer;
+    /* color: red; */
+display: flex;
+margin-left: 40px;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* margin-top: 25px; */
+}
+
+.filter{
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 80px;
+
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.input input{
+    width: 350px;
+    margin-top: 20px;
+    border: solid blueviolet;
+
+}
+.wrap{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+}
+.mani {
+margin-right: 25px;
+margin-top: 15px;
+    
+    
+}
+.span{
+    margin-left: 64px;
+}
+.mani span{
+    font-size: 24px;
+}
+.alt button{
+    width: 200px;
+height: 35px;
+border-radius: 4px;
+background-color: blue;
+color: aliceblue;
+border: none;
+margin-top: 10px;
+cursor: pointer;
+}
